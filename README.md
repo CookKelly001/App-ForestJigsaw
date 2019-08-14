@@ -1,8 +1,8 @@
-# BrightGoldenEgg
+# Link-The-Number
 
-Technical support -- "Bright Golden Egg"
+Technical support -- "Link The Number"
 
-We will provide technical support for this app（Bright Golden Egg）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: cookkelly001@gmail.com
+We will provide technical support for this app（Link The Number）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: KelyZp1988@gmail.com
 
 
 
