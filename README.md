@@ -2,7 +2,7 @@
 
 Technical support -- "Forest Jigsaw"
 
-We will provide technical support for this app（Link The Number）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: DonkenFJ01@gmail.com
+We will provide technical support for this app（Forest Jigsaw）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: DonkenFJ01@gmail.com
 
 
 
