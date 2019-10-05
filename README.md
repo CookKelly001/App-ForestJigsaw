@@ -1,8 +1,8 @@
-# Forest Jigsaw
+# Puzzle Generator
 
-Technical support -- "Forest Jigsaw"
+Technical support -- "Puzzle Generator"
 
-We will provide technical support for this app（Forest Jigsaw）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: DonkenFJ01@gmail.com
+We will provide technical support for this app（Puzzle Generator）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: DomyFB@gmail.com
 
 
 
